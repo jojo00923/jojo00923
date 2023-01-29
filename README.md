@@ -1,1 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=egg)
+
+Hi, there.
+<br>
+I'm a Programmer.
+
+### Tech
+- Java
+- JavaScript
+
+### Projects
+- ![Hello]("https://github.io")
+
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jojo00923&theme=buefy&show_icons=true" />
+<div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo00923&repo=jojo00923.github.io&cache_seconds=86400&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo00923&repo=jojo00923.github.io&cache_seconds=86400&theme=buefy" />
+</div>
+<div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo00923&repo=jojo00923.github.io&cache_seconds=86400&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo00923&repo=jojo00923.github.io&cache_seconds=86400&theme=buefy" />
+</div>
