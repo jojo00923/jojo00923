@@ -25,4 +25,5 @@ I'm a Programmer.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojo00923&repo=jojo00923.github.io&cache_seconds=86400&theme=buefy" />
 </div>
 
-\
+### Study
+- [Fastcampus](https://fastcampus.co.kr)
